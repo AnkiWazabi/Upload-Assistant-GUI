@@ -6,7 +6,7 @@ import sys
 class UploadAssistantGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Upload Assistant GUI - v6.3.0")
+        self.root.title("Upload Assistant GUI - v0.1")
         self.root.geometry("1100x950")
 
         style = ttk.Style()
